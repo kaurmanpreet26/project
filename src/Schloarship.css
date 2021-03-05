@@ -1,0 +1,46 @@
+
+#title {
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+
+#schloarship {
+  margin-top: 100px;
+  width: 10px;
+  height: 100px;
+  
+margin-left: 150px;
+  margin-bottom: 100px;
+  text-align: center;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  border: 3px solid #ddd;
+  
+}
+
+#schloarship td, #schloarship th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  
+}
+#green{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #9deb9f;
+  color: white;
+}
+
+
+#schloarship tr:nth-child(even){background-color: #f2f2f2;}
+
+#schloarship tr:hover {background-color: #ddd;}
+
+#schloarship th {
+ 
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+}
